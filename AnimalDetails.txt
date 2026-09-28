@@ -1,0 +1,5 @@
+Parrot|Zoe|4|Green|3.0|50
+Dolphin|Bluey|3|Blue|4.0|30
+Parrot|Zoe|4|Green|45.0|50
+Dolphin|Bluey|3|blue|50.0|50
+Lion|Simva|4|Blonde|50.0|Black
